@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="">
+    <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="第一次提交">
       <change afterPath="$PROJECT_DIR$/allure-results/0036c9ac-1429-4059-bb12-cee99af39583-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/00681e9e-bb51-4957-bdd1-b74919c3f578-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/00c73e94-7c43-40e2-bd10-c4f899853eac-container.json" afterDir="false" />
@@ -58,6 +58,7 @@
       <change afterPath="$PROJECT_DIR$/allure-results/fb0f2068-ab05-48f8-b6ba-3849f5db26b4-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/fc4c7b3c-681b-4a41-936c-1832412b6b66-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/allure-results/ffd43b19-c3af-4753-9256-bab89900852f-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,11 +116,11 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA\Workspace\myself_TestNG_RestAssured_Allure_jenkins\src\test\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEA\Workspace\myself_TestNG_RestAssured_Allure_jenkins\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Workspace\myself_TestNG_RestAssured_Allure_jenkins\src\test\resources" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Demo1Test.case2 (5)">
@@ -290,7 +291,7 @@
       <updated>1578200761147</updated>
       <workItem from="1578200765797" duration="1869000" />
       <workItem from="1578202647427" duration="8481000" />
-      <workItem from="1578212205894" duration="3267000" />
+      <workItem from="1578212205894" duration="4463000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1578222074690</created>
@@ -299,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578222074690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1578222308853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578222308853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1578222425134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578222425134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,10 +329,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="328" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578200790606" />
-    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578222307558">
+    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578222465404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222307558" />
+    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222465404" />
     <state x="279" y="437" key="FileChooserDialogImpl" timestamp="1578221668734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,10 +357,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578214133672" />
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578222310728">
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578222428716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222310728" />
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222428716" />
     <state x="1131" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1578212416580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
