@@ -39,6 +39,8 @@ public class Demo1Test {
     void case4(){
 
         System.out.println("case4+System.currentTimeMillis()");
+        System.out.println("xiugai");
     }
+
 
 }
