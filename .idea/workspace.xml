@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/1cc700af-1ff6-4447-925a-9fedaa5f1607-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3da2b692-63cb-4da2-a3fc-e87abf4ce03b-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/48de9ca6-e56b-490c-b62c-1ddae1cb5c90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5956009f-c259-42a5-9f57-c0062f4b05f1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1757520-3b51-4c4d-80d2-0b045b99b372-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd4aebbd-816b-42b0-a477-52972a2bad9f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7d002f8-f3a6-4b3d-bfbc-71b17134d5ca-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +48,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1Vxhg7otAHz318WDvePbfxO550R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -236,7 +245,7 @@
       <updated>1578200761147</updated>
       <workItem from="1578200765797" duration="1869000" />
       <workItem from="1578202647427" duration="8481000" />
-      <workItem from="1578212205894" duration="6082000" />
+      <workItem from="1578212205894" duration="6572000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1578222074690</created>
@@ -266,13 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578224455569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1578227841470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578227841470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
@@ -281,10 +298,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="328" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578200790606" />
-    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578224454494">
+    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578227840507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578224454494" />
+    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578227840507" />
     <state x="279" y="437" key="FileChooserDialogImpl" timestamp="1578221668734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -309,10 +326,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578214133672" />
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578224458418">
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578227844191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578224458418" />
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578227844191" />
     <state x="1131" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1578212416580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
