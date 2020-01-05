@@ -15,16 +15,16 @@
    <name>项目名称：myself_TestNG_RestAssured_Allure_jenkins</name>
     <description>stxf's  maven project to study maven.</description>
 
-   <!--暂时省略 &lt;!&ndash;通过“-D”引用变量&ndash;&gt;
+    <!--通过“-D”引用变量-->
      <properties>
         <aspectj.version>1.8.10</aspectj.version>
-        &lt;!&ndash; 解决mvn编译乱码问题&ndash;&gt;
+        <!-- 解决mvn编译乱码问题-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        &lt;!&ndash;外部传参，默认跑testng.xml&ndash;&gt;
+        <!--外部传参，默认跑testng.xml-->
         <xmlFileName>testng.xml</xmlFileName>
+
     </properties>
--->
     <pluginRepositories>
         <pluginRepository>
             <id>ali</id>
@@ -109,20 +109,19 @@
         </plugin>
 -->
           <!--  为了集成到jenkins-->
-          <!--  <plugin>
+            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.19</version>
                 <configuration>
                     <suiteXmlFiles>
-                        &lt;!&ndash;该文件位于工程根目录时，直接填写名字，其它位置要加上路径&ndash;&gt;
-                        &lt;!&ndash;suiteXmlFile>src/main/resources/testngXml/${xmlFileName}</suiteXmlFile&ndash;&gt;
-                        <suiteXmlFile>${project.basedir}/target/classes/testngXml/${xmlFileName}</suiteXmlFile>
+                        <!--该文件位于工程根目录时，直接填写名字，其它位置要加上路径-->
+                        <!--suiteXmlFile>src/main/resources/testngXml/${xmlFileName}</suiteXmlFile-->
+                        <suiteXmlFile>${xmlFileName}</suiteXmlFile>
                     </suiteXmlFiles>
 
                 </configuration>
             </plugin>
--->
            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>

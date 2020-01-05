@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/1cc700af-1ff6-4447-925a-9fedaa5f1607-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3da2b692-63cb-4da2-a3fc-e87abf4ce03b-attachment.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/48de9ca6-e56b-490c-b62c-1ddae1cb5c90-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5956009f-c259-42a5-9f57-c0062f4b05f1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a1757520-3b51-4c4d-80d2-0b045b99b372-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dd4aebbd-816b-42b0-a477-52972a2bad9f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f7d002f8-f3a6-4b3d-bfbc-71b17134d5ca-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +239,7 @@
       <updated>1578200761147</updated>
       <workItem from="1578200765797" duration="1869000" />
       <workItem from="1578202647427" duration="8481000" />
-      <workItem from="1578212205894" duration="6572000" />
+      <workItem from="1578212205894" duration="7563000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1578222074690</created>
@@ -282,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578227841470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第一次提交">
+      <created>1578228407249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578228407249</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,10 +299,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="328" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578200790606" />
-    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578227840507">
+    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578228418533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578227840507" />
+    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578228418533" />
     <state x="279" y="437" key="FileChooserDialogImpl" timestamp="1578221668734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -326,10 +327,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578214133672" />
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578227844191">
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578228409759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578227844191" />
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578228409759" />
     <state x="1131" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1578212416580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
