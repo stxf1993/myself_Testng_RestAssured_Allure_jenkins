@@ -1,64 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/allure-results/0036c9ac-1429-4059-bb12-cee99af39583-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/00681e9e-bb51-4957-bdd1-b74919c3f578-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/00c73e94-7c43-40e2-bd10-c4f899853eac-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/02978e21-02e6-470b-aa56-1cb0d1bbac4c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/03deb589-6f16-4e80-9fa6-42a99b847247-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/04ca21ee-fa5a-4fd8-87a6-264dc421b7e5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/06f323b2-4aae-4d17-9571-f8ac682fc934-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/09724079-e1fc-4750-8187-bfd1cea29890-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0ef7c56d-d5f3-4cd4-acf8-1b9eecc96037-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1bf67f12-dbdd-4d73-b2fc-dfe3290c6aeb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/27b813bd-83c4-4e57-9531-360e9233f4a0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2997d087-a30c-448d-911d-01433d63836e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2d4ee81e-0a61-43f0-b59f-681b295312b9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2f226fa1-2984-43cb-924d-053bbf206be0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3552c0b5-8046-4b33-aaa8-c14a99508c31-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3c188df5-1657-4895-a872-491e624880f6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4ae8e623-9d9f-49b6-9fee-9c248c2128dd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4c542fbd-c900-435e-b622-4f4651255569-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4eaeb951-6909-446b-ab69-25fc289dc4f7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/53e63b97-6c9e-43ee-bb55-aac29264c0cf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/56cd0c86-4fb8-4421-a7a6-888f96bb2855-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5875c75b-f7b7-4239-8716-71fc74167ae9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5eec404b-8770-4f8f-b44f-58c50d9ec589-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5fba7993-df4e-47e2-b868-0131727b732a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6bc29716-84ce-48a3-829d-bbe21b6bccef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6fd0aba2-4bc6-4821-bcc8-643319656940-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/72295b04-6456-447e-8ee5-79d0e39f072b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/729b5033-16ac-416d-9ab9-5d046f1dab83-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7714d056-2a6c-4995-93ad-0acd842358cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7c65707a-c60c-48f4-8031-ee76d14bc320-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7df5c4f0-5252-4509-b26e-ca986d149152-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8482f95e-8a86-44a9-aa97-4195b216b41d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8c701cf1-7384-4aca-b542-233ac4a1880a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/935c13f8-82c1-4d1f-83b6-7fdb63aa93d4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98a7ffbe-6d06-415e-8114-462e3c2b6d5e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9a4b7b3b-671b-4904-8041-76c74a48eab3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9ca851f4-12c3-47a1-bea7-2eb76030ef6e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ac5e06ef-e7cf-4395-ac3d-c1401f482c0d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5016fc6-37b3-4a08-810d-523abafe8d42-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b7d728bd-7519-46a1-acfa-23c10d5330d1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b81865a4-43b8-4778-acf1-458d3cfca224-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/baa1c638-58e1-42d2-92bc-85e0895b4b59-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bbcd1dc2-9b7b-452d-a0ef-c2a3a02aed66-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bdf8fa56-1ec3-4950-853c-19b03b51404a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/db41566a-6854-4cd7-bceb-e87a0ef60393-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e396afb3-b4e7-4214-9c56-0070503afb9a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/eaf688cd-7185-40e9-b2ce-51eca4707c07-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed8989ac-ff09-414c-beb1-4c7c4b6e2265-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/efc6b21f-5b96-4823-bda3-0adeefaa2598-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f0887d22-7ee2-414e-ab26-25cdd5396d7a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f2df48ce-089a-43f2-a09d-2fb01d9326d2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f7d7f358-5b3f-4f04-9a8b-0c5681c61cbf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fa08458f-0736-42a8-90d8-675eeaa4bf5b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb0f2068-ab05-48f8-b6ba-3849f5db26b4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fc4c7b3c-681b-4a41-936c-1832412b6b66-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ffd43b19-c3af-4753-9256-bab89900852f-result.json" afterDir="false" />
+    <list default="true" id="247cfb80-ba0e-426d-a135-eb14f451c178" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +236,7 @@
       <updated>1578200761147</updated>
       <workItem from="1578200765797" duration="1869000" />
       <workItem from="1578202647427" duration="8481000" />
-      <workItem from="1578212205894" duration="4463000" />
+      <workItem from="1578212205894" duration="6082000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1578222074690</created>
@@ -314,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578222425134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次提交">
+      <created>1578224455569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578224455569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,10 +281,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="328" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578200790606" />
-    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578222465404">
+    <state x="361" y="100" key="CommitChangelistDialog2" timestamp="1578224454494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222465404" />
+    <state x="361" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578224454494" />
     <state x="279" y="437" key="FileChooserDialogImpl" timestamp="1578221668734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,10 +309,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578214133672" />
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578222428716">
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2" timestamp="1578224458418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578222428716" />
+    <state x="519" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578224458418" />
     <state x="1131" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1578212416580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

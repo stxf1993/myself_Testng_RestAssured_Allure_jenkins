@@ -15,16 +15,16 @@
    <name>项目名称：myself_TestNG_RestAssured_Allure_jenkins</name>
     <description>stxf's  maven project to study maven.</description>
 
-    <!--通过“-D”引用变量-->
+   <!--暂时省略 &lt;!&ndash;通过“-D”引用变量&ndash;&gt;
      <properties>
         <aspectj.version>1.8.10</aspectj.version>
-        <!-- 解决mvn编译乱码问题-->
+        &lt;!&ndash; 解决mvn编译乱码问题&ndash;&gt;
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <!--外部传参，默认跑testng.xml-->
+        &lt;!&ndash;外部传参，默认跑testng.xml&ndash;&gt;
         <xmlFileName>testng.xml</xmlFileName>
     </properties>
-
+-->
     <pluginRepositories>
         <pluginRepository>
             <id>ali</id>
@@ -53,7 +53,7 @@
             <version>3.1.0</version>
         </dependency>
 
-        <dependency>
+       <!--暂时省略 <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-testng-adaptor</artifactId>
             <version>1.3.6</version>
@@ -63,7 +63,7 @@
                     <artifactId>testng</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
+        </dependency>  -->
 
         <dependency>
             <groupId>io.qameta.allure</groupId>
@@ -83,7 +83,7 @@
     <build>
 
         <plugins>
-        <plugin>
+      <!-- 暂时省略 <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-surefire-plugin</artifactId>
             <version>2.5</version>
@@ -91,7 +91,7 @@
                 <argLine>
                     -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                 </argLine>
-                <!--生成allure-result的目录-->
+                &lt;!&ndash;生成allure-result的目录&ndash;&gt;
                 <systemProperties>
                     <property>
                         <name>allure.results.directory</name>
@@ -107,7 +107,7 @@
                 </dependency>
             </dependencies>
         </plugin>
-
+-->
           <!--  为了集成到jenkins-->
           <!--  <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -123,7 +123,7 @@
                 </configuration>
             </plugin>
 -->
-            <plugin>
+           <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
