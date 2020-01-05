@@ -3,7 +3,6 @@ package SimpleDemoTest;
 import io.qameta.allure.Allure;
 import io.qameta.allure.Description;
 import io.qameta.allure.Link;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
@@ -32,7 +31,7 @@ public class Demo1Test {
     @Test
     void case3(){
         System.out.println("CASE3");
-        Assert.fail("case3,fail+System.currentTimeMillis() ");
+        /*Assert.fail("case3,fail+System.currentTimeMillis() ");*/
     }
 
     @Test(dependsOnMethods = "case3")
